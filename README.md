@@ -72,7 +72,7 @@ This project is released under the GPL License.
 
 👤 Author
 
-Kan Liu, Master.
+Kan Liu, Master. School of Aerospace enginerering. Beijing Institute of Technology.
 Computational Fluid Dynamics | SPH | High-Performance Simulation
 📧 Email: lkbhg@outlook.com
 
