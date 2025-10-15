@@ -7,6 +7,8 @@ openMPSPH
 A C++ Simulation Framework with OpenMP Acceleration
 Developed by Kan Liu
 
+Notice: There are some disadvantages in the current equations. I will fix it in the future according to requirement.
+
 🧩 Overview
 
 This project is a personal software developed by Hong Yin for scientific computing and numerical simulation.
