@@ -11,7 +11,7 @@ Notice: There are some disadvantages in the current equations. I will fix it in 
 
 🧩 Overview
 
-This project is a personal software developed by Hong Yin for scientific computing and numerical simulation.
+This project is a personal software developed by Kan Liu for scientific computing and numerical simulation.
 It is implemented in C++, parallelized with OpenMP, and built using CMake for easy compilation and cross-platform deployment.
 
 The software is designed for high-performance simulations involving complex physical processes, such as fluid–structure interaction, heat transfer, or particle-based modeling.
