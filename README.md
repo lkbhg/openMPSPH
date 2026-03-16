@@ -70,7 +70,7 @@ Simulation results (e.g., .dat, .csv, .vtk) will be automatically stored in the 
 
 📜 License
 
-This project is released under the GPL License.
+This project is released under the BSL License.
 
 👤 Author
 
